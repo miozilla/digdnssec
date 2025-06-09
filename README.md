@@ -23,7 +23,4 @@ To add DNS integrity check, spam control by leveraging DNSSEC, SPF & txt records
 
 ![digdnssec008.png](./media/digdnssec008.png)
 
-![digdnssec009.png](./media/digdnssec009.png)
-
-![digdnssec010.png](./media/digdnssec010.png)
 
